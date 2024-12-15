@@ -1,3 +1,17 @@
-venv/ 
-__pycache__/ 
-outputs/ 
+# Ignore virtual environment
+venv/
+venv310/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore outputs
+outputs/
+
+# Ignore model and large data (if needed)
+*.pt
+*.pkl
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
