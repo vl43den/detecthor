@@ -30,7 +30,7 @@ Install all required Python libraries:
 
 pip install -r requirements.txt
 
-Usage
+### 4. Usage
 
 Place Your Input Image Place your image in the data/ directory. By default, the script looks for naturo.png.
 
