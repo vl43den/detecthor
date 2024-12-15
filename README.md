@@ -19,12 +19,12 @@ Detecthor is an object detection project leveraging the power of YOLOv5. It can 
 git clone https://github.com/vl43den/detecthor.git
 cd detecthor
 
-###2. Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment
 
 python -m venv venv
 venv\Scripts\activate
 
-###3. Install Dependencies
+### 3. Install Dependencies
 
 Install all required Python libraries:
 
